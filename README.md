@@ -20,8 +20,9 @@ This project implements real-time face recognition using OpenCV for capturing vi
 1. **Install required libraries:**
 
    ```bash
-   pip freeze > requirements.txt
-   pip install -r requirements.txt
+   pip install opencv-python face_recognition numpy
+
+ 
    
 2. Install tenserflow cc and framework :
    ```bash
